@@ -44,7 +44,12 @@ namespace vjezba_pismeni
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            if 
+            
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

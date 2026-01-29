@@ -212,6 +212,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Form2";
             this.Text = "Unos knjiga";
+            this.Load += new System.EventHandler(this.Form2_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
